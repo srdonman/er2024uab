@@ -6,7 +6,7 @@ Aquest repositori conté tot el material necessari per al desenvolupament i docu
 
 1. **Ramon Canal Fort (1674310)**:
 2. **Carlota Fernández Pensado (1666263)**
-3. **Emma Juanico Sala ()**
+3. **Emma Juanico Sala (1672960)**
 
 
 ## Continguts principals del Repositori:
