@@ -9,7 +9,7 @@ Aquest repositori conté tot el material necessari per al desenvolupament i docu
 3. **Emma Juanico Sala ()**
 
 
-## Contingut del Repositori:
+## Continguts principals del Repositori:
 
 1. **Scripts Python**:
    - `main.py`: Script principal per inserir dades des d'un fitxer Excel o JSON a la base de dades MongoDB. Aquest script s'executa amb l'opció `-f` seguida del nom del fitxer de dades.
