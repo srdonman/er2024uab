@@ -1,15 +1,40 @@
 [
-    { "Nom": "Alberta", "Cognom": "Capdevila" , "DNI": "12332100W", "Edat": 54 , "Sexe": "Femení", "CodiPostal": 01121, "Adreça": "Carrer Viladomat de Pons 122, 3r 4ta", "e-mail": "alberta_the_best@hotmail.com", "tipus_targetes": "Dèbit" , "numero_targetes": 3 },
-    { "Nom": "Tomeu", "Cognom": "Puigdemnot", "DNI": "98767892S", "Edat": 33, "Sexe": "Masculí", "CodiPostal": 45444, "Adreça": "Avinguda de la Independència Catalana 1, 1r 2na ", "e-mail": "tomeu.independencia@gmail.com" , "tipus_targetes": "Dèbit" , "numero_targetes": 1 },
-    { "Nom": "Pau", "Cognom": "Vidal", "DNI": "56789013D", "Edat": 41, "Sexe": "Masculí", "CodiPostal": 08026, "Adreça": "Carrer del Passeig Marítim 67, 4t 3ra", "e-mail": "pau.vidal@gmail.com", "tipus_targetes": "Crèdit", "numero_targetes": 2 },
-    { "Nom": "Vicente", "Cognom": "Rubiales", "DNI": "33445522E", "Edat": 49 , "Sexe": "Masculí" , "CodiPostal": 67432 , "Adreça": "Calle 12 Octubre 12, 4t 1ra" , "e-mail": "rubiales.vicente@gmail.com" , "tipus_targetes": "Dèbit", "numero_targetes": 1 },
-    { "Nom": "Meritxell", "Cognom": "Ferrer", "DNI": "01234568J", "Edat": 39, "Sexe": "Femení", "CodiPostal": 12005, "Adreça": "Avinguda de Marina 78, 4t 2na", "e-mail": "meritxell.ferrer@yahoo.es", "tipus_targetes": "Crèdit", "numero_targetes": 2 },
-    { "Nom": "Lionel Andrés", "Cognom": "Messi" , "DNI": "10101010M", "Edat": 36, "Sexe": "Masculí", "CodiPostal": 77712, "Adreça": "Carrer del millor jugador del món 10", "e-mail": "messi_theGoat@gmail.com", "tipus_targetes":" Crèdit" , "numero_targetes":12 },
-    { "Nom": "Laura", "Cognom": "Rivera", "DNI": "89012346G", "Edat": 44, "Sexe": "Femení", "CodiPostal": 08021, "Adreça": "Carrer de la Diagonal 145, 5è 3ra", "e-mail": "claudia.gelabert@hotmail.com", "tipus_targetes": "Crèdit", "numero_targetes": 3 },
-    { "Nom": "Ramon", "Cognom": "Canal", "DNI": "26904328D", "Edat": 19, "Sexe": "Masculí", "CodiPostal": 08025, "Adreça": "Carrer de la Indústria 76, entresol 3ra", "e-mail": "rcanalfort@gmail.com", "tipus_targetes": "Dèbit", "numero_targetes": 2 },
-    { "Nom": "Carlota", "Cognom": "Fernández", "DNI": "49874397R", "Edat": 19, "Sexe": "Femení", "CodiPostal": 43830, "Adreça": "Carrer Sant Adrià 2, 1r 4ta", "e-mail": "1666263@uab.cat", "tipus_targetes": "Crèdit", "numero_targetes": 2 },
-    { "Nom": "Emma", "Cognom": "Juanico", "DNI": "53869749T", "Edat": 20, "Sexe": "Femení", "CodiPostal": 08195, "Adreça": "Carrer de Sant Sebastià 112", "e-mail": "juanico.emma@gmail.com", "tipus_targetes": "Dèbit", "numero_targetes": 1 },
+    { "Planta": -1, "Zona": "A", "Numero": 1},
+    { "Planta": -1, "Zona": "A", "Numero": 2},
+    { "Planta": -1, "Zona": "A", "Numero": 3},
+    { "Planta": -1, "Zona": "A", "Numero": 4},
+    { "Planta": -1, "Zona": "A", "Numero": 5},
+    { "Planta": -1, "Zona": "B", "Numero": 1},
+    { "Planta": -1, "Zona": "B", "Numero": 2},
+    { "Planta": -1, "Zona": "B", "Numero": 3},
+    { "Planta": -1, "Zona": "B", "Numero": 4},
+    { "Planta": -1, "Zona": "B", "Numero": 5},
+    { "Planta": -1, "Zona": "C", "Numero": 1},
+    { "Planta": -1, "Zona": "C", "Numero": 2},
+    { "Planta": -1, "Zona": "C", "Numero": 3},
+    { "Planta": -1, "Zona": "C", "Numero": 4},
+    { "Planta": -1, "Zona": "C", "Numero": 5},
+    { "Planta": -2, "Zona": "A", "Numero": 1},
+    { "Planta": -2, "Zona": "A", "Numero": 2},
+    { "Planta": -2, "Zona": "A", "Numero": 3},
+    { "Planta": -2, "Zona": "A", "Numero": 4},
+    { "Planta": -2, "Zona": "A", "Numero": 5},
+    { "Planta": -2, "Zona": "B", "Numero": 1},
+    { "Planta": -2, "Zona": "B", "Numero": 2},
+    { "Planta": -2, "Zona": "B", "Numero": 3},
+    { "Planta": -2, "Zona": "B", "Numero": 4},
+    { "Planta": -2, "Zona": "B", "Numero": 5},
+    { "Planta": -2, "Zona": "C", "Numero": 1},
+    { "Planta": -2, "Zona": "C", "Numero": 2},
+    { "Planta": -2, "Zona": "C", "Numero": 3},
+    { "Planta": -2, "Zona": "C", "Numero": 4},
+    { "Planta": -2, "Zona": "C", "Numero": 5}
+]
 
 
 
-    ]
+
+
+
+
+
