@@ -20,6 +20,3 @@ Aquest repositori conté tot el material necessari per al desenvolupament i docu
 3. **Informe Final**:
    - `Informe.md`: Document que detalla la resolució de cada exercici, incloent-hi una secció dedicada a la distribució de tasques entre els membres de l'equip.
 
-
-
-hola proba
