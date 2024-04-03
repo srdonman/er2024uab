@@ -39,7 +39,7 @@ clients = bd['Clients']
 cotxes = bd['Cotxes']
 tiquets = bd['Tiquets']
 productes = bd['Productes']
-plaçapk = bd['plaçapk']
+plaçapk = bd['Plaçapk']
 
 llista = [clients, cotxes, tiquets, productes, plaçapk]
 """
