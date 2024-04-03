@@ -21,5 +21,3 @@ Aquest repositori conté tot el material necessari per al desenvolupament i docu
    - `Informe.md`: Document que detalla la resolució de cada exercici, incloent-hi una secció dedicada a la distribució de tasques entre els membres de l'equip.
 
 
-
-Proba Ramon
