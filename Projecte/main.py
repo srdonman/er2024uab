@@ -45,9 +45,6 @@ if args.fileName is not None:
     with open(args.fileName) as f:
         dades = json.load(f)
 
-    #Mostrem els continguts de Dades
-    # print(dades)
-
 for key, value in dades.items():
     for doc in dades[key]:
         if key == 'Clients':
