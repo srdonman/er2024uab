@@ -1,7 +1,7 @@
 {
     "Clients" :[
         { "Nom": "Alberta", "Cognom": "Capdevila" , "DNI": "12332100W", "Edat": 54 , "Sexe": "Femení", "CodiPostal": 01121, "Adreça": "Carrer Viladomat de Pons 122, 3r 4ta", "e-mail": "alberta_the_best@hotmail.com", "tipus_targetes": "Dèbit" , "numero_targetes": 3 },
-        { "Nom": "Tomeu", "Cognom": "Puigdemnot", "DNI": "98767892S", "Edat": 33, "Sexe": "Masculí", "CodiPostal": 45444, "Adreça": "Avinguda de la Independència Catalana 1, 1r 2na ", "e-mail": "tomeu.independencia@gmail.com" , "tipus_targetes": "Dèbit" , "numero_targetes": 1 },
+        { "Nom": "Tomeu", "Cognom": "Puigdemont", "DNI": "98767892S", "Edat": 33, "Sexe": "Masculí", "CodiPostal": 45444, "Adreça": "Avinguda de la Independència Catalana 1, 1r 2na ", "e-mail": "tomeu.independencia@gmail.com" , "tipus_targetes": "Dèbit" , "numero_targetes": 1 },
         { "Nom": "Pau", "Cognom": "Vidal", "DNI": "56789013D", "Edat": 41, "Sexe": "Masculí", "CodiPostal": 08026, "Adreça": "Carrer del Passeig Marítim 67, 4t 3ra", "e-mail": "pau.vidal@gmail.com", "tipus_targetes": "Crèdit", "numero_targetes": 2 },
         { "Nom": "Vicente", "Cognom": "Rubiales", "DNI": "33445522E", "Edat": 49 , "Sexe": "Masculí" , "CodiPostal": 67432 , "Adreça": "Calle 12 Octubre 12, 4t 1ra" , "e-mail": "rubiales.vicente@gmail.com" , "tipus_targetes": "Dèbit", "numero_targetes": 1 },
         { "Nom": "Meritxell", "Cognom": "Ferrer", "DNI": "01234568J", "Edat": 39, "Sexe": "Femení", "CodiPostal": 12005, "Adreça": "Avinguda de Marina 78, 4t 2na", "e-mail": "meritxell.ferrer@yahoo.es", "tipus_targetes": "Crèdit", "numero_targetes": 2 },
