@@ -5,9 +5,6 @@ from options import Options
 
 ################################## PARAMETRES DE CONNEXIÓ ###################################
 
-"""
-1.  Actualitzeu els paràmetres del script NoSQLfromPython.py per poder establir la connexió amb el MongoDB del vostre PC.
-"""
 # En execució remota
 Host = 'localhost'
 Port = 8207
