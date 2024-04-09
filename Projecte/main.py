@@ -4,16 +4,13 @@ import json
 from options import Options
 
 ################################## PARAMETRES DE CONNEXIÓ ###################################
-mongoUser = ''
-mongoPassword = ''
-mongoDB = ''
 
 """
 1.  Actualitzeu els paràmetres del script NoSQLfromPython.py per poder establir la connexió amb el MongoDB del vostre PC.
 """
 # En execució remota
 Host = 'localhost'
-Port = 27017
+Port = 8207
 
 ###################################### CONNEXIÓ ##############################################
 
@@ -23,7 +20,6 @@ conn = MongoClient(DSN)
 
 ############################# TRANSFERÈNCIA DE DADES AMB MONGO ##############################
 
-# Selecciona la base de dades a utilitzar --> test
 bd = conn['projecte']
 
 clients = bd['Clients']
@@ -39,7 +35,7 @@ productes.drop()
 plaçapk.drop()
 
 """
-Carregar les dades des d'unfitxer JSON
+Carregar les dades des d'un fitxer JSON
 """
 
 # Obrir Fitxer JSON
@@ -63,7 +59,7 @@ for key, value in dades.items():
         else:
             plaçapk.insert_one(doc)
 
-print(clients)
+
 
 # Tanquem les connexions i el tunel
 conn.close()
