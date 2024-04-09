@@ -1,4 +1,4 @@
 db.Clients.find(
-    {"CodiPostal": /^080/},  
+    {"Població": "Barcelona"},  
     {"_id": 0}).sort({"Edat": -1}).limit(1)
   
