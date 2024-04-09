@@ -13,7 +13,8 @@ db.Cotxes.aggregate([
         "Plaça": {
         $concat: [{$toString: "$estada.pàrquing.Planta"}, " ", 
           "$estada.pàrquing.Zona"," ", 
-          {$toString: "$estada.pàrquing.Numero"}]},
+          {$toString: "$estada.pàrquing.Numero"}," ",
+          {$toString: "$estada.pàrquing.Carregador"}]},
         "Dades del vehicle": {
         "Matrícula": "$matrícula",
         "Marca": "$marca",
